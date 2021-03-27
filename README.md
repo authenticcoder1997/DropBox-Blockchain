@@ -1,5 +1,15 @@
 ## ``` Decentralized File Storage. ```
 
+Steps to install:-
 
-## 🔧 Project Diagram:
-![Project Diagram](https://i.gyazo.com/2738ea6743a40036756b1b5714ab9fa8.png)
+1> Download truffle version (5..)
+
+2> Install Ganache
+
+3> Setup MetaMask Extension in Browser
+
+4> npm install
+
+5> truffle migrate --reset
+
+6> npm run start
